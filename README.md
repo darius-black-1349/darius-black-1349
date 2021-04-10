@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darius-black-1349
 - 👀 I’m interested in ReactJs
 - 🌱 I’m currently learning NextJs that is a the best framework for React and SSR
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on companies that make me Master in ReactJs
 - 📫 How to reach me : I'm Working on my portfolio site and soon as soon it's gonna be build
 
 <!---
